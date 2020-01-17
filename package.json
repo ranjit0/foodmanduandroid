@@ -7,7 +7,7 @@
     "start": "nodemon --ignore ./public/uploads index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Suraj Machamasi",
+  "author": "Ranjit Basu",
   "license": "ISC",
   "dependencies": {
     "bcryptjs": "^2.4.3",
